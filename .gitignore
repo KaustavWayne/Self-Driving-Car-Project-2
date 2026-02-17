@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# VS Code settings
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Ignore Dataset Images
+# ==============================
+data/driving_dataset/IMG/
+
+# (Optional) ignore csv too
+# data/driving_dataset/driving_log.csv
+
+# ==============================
+# Ignore Trained Models
+# ==============================
+saved_models/**/*.pt
+saved_models/**/*.h5
+
+# Keep empty folder structure
+!saved_models/**/
