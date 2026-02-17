@@ -136,7 +136,7 @@ SELF-DRIVING-CAR-2/
 
 # References and Resources
 
-- [Kaggle Data Used]
+- [Kaggle Data Used - For Images](https://www.kaggle.com/datasets/roydatascience/training-car)
 - [Steering Angle Predictions](https://www.kaggle.com/datasets/roydatascience/training-car)
 - [Road - lane segmentation](https://www.kaggle.com/datasets/princekhunt19/road-lane-segmentation-imgs-and-labels)
 - [Object Detection for Road Visualization](https://www.kaggle.com/datasets/princekhunt19/road-detection-imgs-and-labels)
